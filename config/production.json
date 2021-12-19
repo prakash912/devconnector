@@ -1,0 +1,8 @@
+
+{
+    "mongoURI":"mongodb+srv://prakashrai:prakashrai@devon.jvnmh.mongodb.net/devOn?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClintId":"4e86ce672dfcbd5b3f85",
+    "githubSecret":"a980532b1bab92cb9e265a1cfb85bc1272fa43ea"
+    
+}
